@@ -1,7 +1,7 @@
 # Certiv
 
-**AI Agent Assurance for endpoints.** Discover, understand, control, and
-protect agentic work before risky actions execute.
+**AI Assurance for Endpoints.** Discover, understand, control, and protect
+agentic work before risky actions execute.
 
 [Website](https://certiv.ai/) ·
 [Product](https://certiv.ai/product/) ·
