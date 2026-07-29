@@ -5,7 +5,7 @@ protect agentic work before risky actions execute.
 
 [Website](https://certiv.ai/) ·
 [Product](https://certiv.ai/product/) ·
-[Tools](https://certiv.ai/tools/) ·
+[Tools](https://github.com/Certiv-ai/certiv-labs) ·
 [Technical writing](https://certiv.ai/blog/) ·
 [Book a demo](https://certiv.ai/demo/)
 
@@ -28,9 +28,9 @@ We focus on:
 
 ## Certiv Labs
 
-[Certiv Labs](https://certiv.ai/tools/) is where we share focused utilities,
-SDKs, and reference projects that emerge from the team's applied work with AI
-systems.
+[Certiv Labs](https://github.com/Certiv-ai/certiv-labs) is where we share
+focused utilities, SDKs, and reference projects that emerge from the team's
+applied work with AI systems.
 
 The first tools are being hardened in
 [`Certiv-ai/certiv-labs`](https://github.com/Certiv-ai/certiv-labs):
@@ -52,6 +52,6 @@ and LangChain applications.
 ## Connect
 
 - Read about [runtime assurance for AI agents](https://certiv.ai/what-is-runtime-assurance/).
-- Explore the [Certiv tools catalog](https://certiv.ai/tools/).
+- Explore [Certiv Labs on GitHub](https://github.com/Certiv-ai/certiv-labs).
 - Visit the [company page](https://certiv.ai/company/) for contact and team
   information.

@@ -27,7 +27,6 @@ FORBIDDEN = (
 EXPECTED_PROFILE_LINKS = (
     "https://certiv.ai/",
     "https://certiv.ai/product/",
-    "https://certiv.ai/tools/",
     "https://github.com/Certiv-ai/certiv-labs",
     "https://pypi.org/project/certiv/",
 )

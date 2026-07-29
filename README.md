@@ -1,7 +1,7 @@
-# Certiv GitHub organization profile
+# Certiv GitHub organization standards
 
-Local source for the future public
-[`Certiv-ai/.github`](https://github.com/Certiv-ai/.github) repository.
+This special repository powers the
+[Certiv GitHub organization](https://github.com/Certiv-ai).
 
 GitHub uses:
 
@@ -12,9 +12,6 @@ GitHub uses:
 - [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) for the
   default pull-request body.
 
-The repository must remain local until the Labs repository and tools pages are
-live, a security-reporting route is approved, and the
-[publication checklist](PUBLICATION_CHECKLIST.md) is complete.
-
-GitHub requires the remote repository to be named `.github` and public before
-the profile and default community-health files apply across the organization.
+The organization profile is live during the Certiv Labs preview. The
+[publication checklist](PUBLICATION_CHECKLIST.md) tracks the remaining work
+before the first supported tools release.
