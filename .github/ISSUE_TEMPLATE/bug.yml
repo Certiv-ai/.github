@@ -1,0 +1,41 @@
+name: Bug report
+description: Report reproducible behavior in a Certiv public project.
+title: "[bug] "
+labels:
+  - bug
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository and tool
+      placeholder: Certiv-ai/repository — tool or component
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the actual and expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Include the smallest safe example and exact command.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      placeholder: Release, commit, or branch
+    validations:
+      required: true
+  - type: checkboxes
+    id: security
+    attributes:
+      label: Security check
+      options:
+        - label: This report contains no vulnerability, credential, customer data, or other sensitive information.
+          required: true

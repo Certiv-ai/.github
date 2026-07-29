@@ -1,0 +1,31 @@
+name: Feature request
+description: Propose a focused improvement to a Certiv public project.
+title: "[idea] "
+labels:
+  - enhancement
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository and tool
+      placeholder: Certiv-ai/repository — tool or component
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What concrete workflow or limitation should be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Describe the result rather than prescribing an implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

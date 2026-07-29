@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://certiv.ai/company/#contact
+    about: Do not disclose vulnerabilities or sensitive information in an issue.
+  - name: Product and company contact
+    url: https://certiv.ai/company/#contact
+    about: Contact Certiv about the product, partnerships, or company questions.
