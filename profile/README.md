@@ -5,7 +5,8 @@ protect agentic work before risky actions execute.
 
 [Website](https://certiv.ai/) ·
 [Product](https://certiv.ai/product/) ·
-[Tools](https://github.com/Certiv-ai/certiv-labs) ·
+[Tools](https://certiv.ai/tools/) ·
+[GitHub Labs](https://github.com/Certiv-ai/certiv-labs) ·
 [Technical writing](https://certiv.ai/blog/) ·
 [Book a demo](https://certiv.ai/demo/)
 
@@ -29,23 +30,24 @@ We focus on:
 ## Certiv Labs
 
 [Certiv Labs](https://github.com/Certiv-ai/certiv-labs) is where we share
-focused utilities and reference projects that emerge from the team's applied
-work with AI systems.
+practical developer tools that emerge from the team's applied work. The tools
+work without a Certiv account and document their maturity, limits, and data
+handling up front.
 
-The first tools are being hardened in
-[`Certiv-ai/certiv-labs`](https://github.com/Certiv-ai/certiv-labs):
+Start with:
 
-- **selectstar** — finds rollout-risky `SELECT *` queries in Go `sqlx`
-  applications;
-- **Go Integration Test Name Checker** — finds integration tests a CI `-run`
-  filter would silently skip.
+- [**selectstar — Go `sqlx` `SELECT *` linter**](https://certiv.ai/tools/selectstar/)
+  catches queries that can break strict scans during rolling database
+  migrations.
+- [**integrationtestnames — Go integration-test CI checker**](https://certiv.ai/tools/integrationtestnames/)
+  catches tagged tests that a mismatched `go test -run` prefix silently skips.
 
-Every release states its maturity, support level, dependencies, data handling,
-and whether it works without a Certiv account.
+[Browse all tools](https://certiv.ai/tools/) ·
+[View the source](https://github.com/Certiv-ai/certiv-labs)
 
 ## Connect
 
-- Read about [runtime assurance for AI agents](https://certiv.ai/what-is-runtime-assurance/).
+- Learn how Certiv delivers [AI Agent Assurance for Endpoints](https://certiv.ai/what-is-runtime-assurance/).
 - Explore [Certiv Labs on GitHub](https://github.com/Certiv-ai/certiv-labs).
 - Visit the [company page](https://certiv.ai/company/) for contact and team
   information.
