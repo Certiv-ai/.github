@@ -5,9 +5,8 @@ protect agentic work before risky actions execute.
 
 [Website](https://certiv.ai/) ·
 [Product](https://certiv.ai/product/) ·
-[Tools](https://certiv.ai/tools/) ·
 [GitHub Labs](https://github.com/Certiv-ai/certiv-labs) ·
-[Technical writing](https://certiv.ai/blog/) ·
+[Insights](https://certiv.ai/blog/) ·
 [Book a demo](https://certiv.ai/demo/)
 
 ## What we build
@@ -30,20 +29,11 @@ We focus on:
 ## Certiv Labs
 
 [Certiv Labs](https://github.com/Certiv-ai/certiv-labs) is where we share
-practical developer tools that emerge from the team's applied work. The tools
-work without a Certiv account and document their maturity, limits, and data
-handling up front.
+tools, research, and field-tested techniques for securing AI agents at the
+endpoint. Our work focuses on agent discovery, intent and tool-use visibility,
+pre-execution policy enforcement, and agent security evaluation.
 
-Start with:
-
-- [**selectstar — Go `sqlx` `SELECT *` linter**](https://certiv.ai/tools/selectstar/)
-  catches queries that can break strict scans during rolling database
-  migrations.
-- [**integrationtestnames — Go integration-test CI checker**](https://certiv.ai/tools/integrationtestnames/)
-  catches tagged tests that a mismatched `go test -run` prefix silently skips.
-
-[Browse all tools](https://certiv.ai/tools/) ·
-[View the source](https://github.com/Certiv-ai/certiv-labs)
+[Explore Certiv Labs](https://github.com/Certiv-ai/certiv-labs)
 
 ## Connect
 
