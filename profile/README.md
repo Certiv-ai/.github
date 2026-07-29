@@ -29,8 +29,8 @@ We focus on:
 ## Certiv Labs
 
 [Certiv Labs](https://github.com/Certiv-ai/certiv-labs) is where we share
-focused utilities, SDKs, and reference projects that emerge from the team's
-applied work with AI systems.
+focused utilities and reference projects that emerge from the team's applied
+work with AI systems.
 
 The first tools are being hardened in
 [`Certiv-ai/certiv-labs`](https://github.com/Certiv-ai/certiv-labs):
@@ -42,12 +42,6 @@ The first tools are being hardened in
 
 Every release states its maturity, support level, dependencies, data handling,
 and whether it works without a Certiv account.
-
-## Use Certiv in Python
-
-The [Certiv Python SDK](https://pypi.org/project/certiv/) adds runtime
-visibility and policy enforcement to supported OpenAI, Anthropic, Google AI,
-and LangChain applications.
 
 ## Connect
 

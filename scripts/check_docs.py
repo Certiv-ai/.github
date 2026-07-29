@@ -28,7 +28,6 @@ EXPECTED_PROFILE_LINKS = (
     "https://certiv.ai/",
     "https://certiv.ai/product/",
     "https://github.com/Certiv-ai/certiv-labs",
-    "https://pypi.org/project/certiv/",
 )
 
 
