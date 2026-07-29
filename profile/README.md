@@ -5,8 +5,8 @@ protect agentic work before risky actions execute.
 
 [Website](https://certiv.ai/) ·
 [Product](https://certiv.ai/product/) ·
-[Tools](https://github.com/Certiv-ai/certiv-labs) ·
-[Technical writing](https://certiv.ai/blog/) ·
+[GitHub Labs](https://github.com/Certiv-ai/certiv-labs) ·
+[Insights](https://certiv.ai/blog/) ·
 [Book a demo](https://certiv.ai/demo/)
 
 ## What we build
@@ -29,23 +29,15 @@ We focus on:
 ## Certiv Labs
 
 [Certiv Labs](https://github.com/Certiv-ai/certiv-labs) is where we share
-focused utilities and reference projects that emerge from the team's applied
-work with AI systems.
+tools, research, and field-tested techniques for securing AI agents at the
+endpoint. Our work focuses on agent discovery, intent and tool-use visibility,
+pre-execution policy enforcement, and agent security evaluation.
 
-The first tools are being hardened in
-[`Certiv-ai/certiv-labs`](https://github.com/Certiv-ai/certiv-labs):
-
-- **selectstar** — finds rollout-risky `SELECT *` queries in Go `sqlx`
-  applications;
-- **Go Integration Test Name Checker** — finds integration tests a CI `-run`
-  filter would silently skip.
-
-Every release states its maturity, support level, dependencies, data handling,
-and whether it works without a Certiv account.
+[Explore Certiv Labs](https://github.com/Certiv-ai/certiv-labs)
 
 ## Connect
 
-- Read about [runtime assurance for AI agents](https://certiv.ai/what-is-runtime-assurance/).
+- Learn how Certiv delivers [AI Agent Assurance for Endpoints](https://certiv.ai/what-is-runtime-assurance/).
 - Explore [Certiv Labs on GitHub](https://github.com/Certiv-ai/certiv-labs).
 - Visit the [company page](https://certiv.ai/company/) for contact and team
   information.
